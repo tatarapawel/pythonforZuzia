@@ -9,4 +9,4 @@ while not wprowadzono_Wiek:
         print("Masz lat: %s" %ile_lat)
         wprowadzono_Wiek=True
     except:
-        print("Wiek musi być liczbą całkowitą ")
+        print("Wiek musi być liczbą calkowita")
